@@ -1,4 +1,4 @@
-# Hello there! I'm Muhammad Nubhan bin Mohd Takiyuddin 👋
+# Hello there! I'm Nubhan 👋
 
 ## Software Engineer | Problem Solver | Lifelong Learner
 

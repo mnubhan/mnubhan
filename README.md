@@ -15,7 +15,7 @@ I am passionate about solving complex problems, optimizing code, and learning ne
 - Cybersecurity Bootcamp HyperionDev (Currently Enrolled)
 
 ### 📫 Get in touch
-- [LinkedIn](https://linkedin.com/mnubhan)
+- [LinkedIn](https://www.linkedin.com/in/mnubhan/)
 - [GitHub](https://github.com/mnubhan)
 - Email: mnubhan.t@gmail.com
 

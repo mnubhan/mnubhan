@@ -12,7 +12,7 @@ I am passionate about solving complex problems, optimizing code, and learning ne
 - AirAsia Academy Software Engineering Reskilling Program
 - ITIL 4 Foundation Level
 - Bachelor of Mechanical Precision Engineering, University Of Technology Malaysia
-- Cybersecurity Bootcamp HyperionDev (Currently Enrolled)
+- Cybersecurity Bootcamp HyperionDev
 
 ### 📫 Get in touch
 - [LinkedIn](https://www.linkedin.com/in/mnubhan/)

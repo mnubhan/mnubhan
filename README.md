@@ -8,6 +8,7 @@ I am proficient in HTML, CSS, JavaScript and Deluge.
 I am passionate about solving complex problems, optimizing code, and learning new technologies. My curiosity and desire to learn drive me to explore, experiment, and push the boundaries of my knowledge. 
 
 ### 🎓 Education & Certifications
+- AirAsia Academy Software Engineering Reskilling Program
 - ITIL 4 Foundation Level
 - Bachelor of Mechanical Precision Engineering, University Of Technology Malaysia
 
